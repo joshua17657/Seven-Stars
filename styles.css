@@ -1,0 +1,9 @@
+.options {
+    color: maroon;
+}
+.indoor, .Covid {
+    text-align: center;
+}
+.home-info {
+    text-align:left;
+}
