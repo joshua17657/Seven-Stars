@@ -5,7 +5,7 @@ ul {
     list-style-type: none;
     text-align: center;
     background: transparent;
-    background-color: brown;
+    padding: 20px;
 }
 li {
     float: left;
