@@ -1,14 +1,23 @@
 * {
     font-size: 19px;
 }
-.options {
-    color: maroon;
-    text-align: center;
+ul {
     list-style-type: none;
-    vertical-align: baseline;
+    text-align: center;
+    background: transparent;
+    background-color: brown;
+}
+li {
+    float: left;
+    margin: 12px;
+}
+li a{
+    display: inline-block;
+    border: 2px solid brown;
 }
 .indoor, .Covid {
     text-align: center;
+    margin: 20px;
 }
 .Covid {
     border: 3px;
@@ -27,5 +36,8 @@ img {
 }
 .hiring {
     text-align:center;
+    margin-top: 75px;
+}
+.indoor {
     margin-top: 75px;
 }
